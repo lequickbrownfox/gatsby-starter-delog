@@ -7,4 +7,4 @@ thumbnail: /assets/image-1.jpg
 ---
 I have embedded a youtude video in this page. By adding HTML to the markdown
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8fQj58Ab7k4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8fQj58Ab7k4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
