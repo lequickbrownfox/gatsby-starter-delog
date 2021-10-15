@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /hello-world
-date: 2020-02-20T07:08:53.137Z
+date: 2021-10-15T06:08:00.000Z
 title: Hello World
 ---
 [ WORK & LIFE](https://www.wsj.com/news/types/work-life?mod=bigtop-breadcrumb)
