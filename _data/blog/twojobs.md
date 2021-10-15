@@ -2,7 +2,7 @@
 template: BlogPost
 path: /hello-world
 date: 2021-10-15T06:08:00.000Z
-title: Hello World
+title: The Secret Life of Some Tech Workers
 ---
 [ WORK & LIFE](https://www.wsj.com/news/types/work-life?mod=bigtop-breadcrumb)
 
