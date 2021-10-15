@@ -1,3 +1,9 @@
+---
+template: BlogPost
+path: /hello-world
+date: 2020-02-20T07:08:53.137Z
+title: Hello World
+---
 [ WORK & LIFE](https://www.wsj.com/news/types/work-life?mod=bigtop-breadcrumb)
 
 These People Who Work From Home Have a Secret: They Have Two Jobs
